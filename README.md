@@ -1,6 +1,6 @@
 # Eyetracker_For_Dizziness
 
->**딥러닝을 이용한 인물 분류기** 
+>**딥러닝을 이용한 이석증 분류기** 
 
 Diagnosis of BPPV by eye movement tracker Algorithm
 
