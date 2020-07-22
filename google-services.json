@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "446782198852",
+    "firebase_url": "https://pupil-79daf.firebaseio.com",
+    "project_id": "pupil-79daf",
+    "storage_bucket": "pupil-79daf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:446782198852:android:454f153692471dd0",
+        "android_client_info": {
+          "package_name": "com.practice.sample.cameramedia"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "446782198852-injgf8l9qrqi1uo1njq2n114tj3g8p90.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.practice.sample.cameramedia",
+            "certificate_hash": "6a511655f0a1f131425c7e300f8368aff914920a"
+          }
+        },
+        {
+          "client_id": "446782198852-pc88rrfi89ft799efds97ni10fpigapb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB9rZHflup8pleEQk1_Ve-heVHrLuKBJCQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "446782198852-pc88rrfi89ft799efds97ni10fpigapb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
