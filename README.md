@@ -6,14 +6,14 @@
 
 >**딥러닝을 이용한 이석증 분류기** 
 
-* ### :heavy_check_mark:프로젝트 소개
+* ### 프로젝트 소개
   <img src="https://user-images.githubusercontent.com/50096655/82443986-6fa8ba00-9add-11ea-9bd4-a7159d8a6093.gif">
 
   
   - Diagnosis of BPPV by eye movement tracker Algorithm
   
 
-* ### :heavy_check_mark:프로젝트 개요
+* ### 프로젝트 개요
   - 이석증
   
   - 프로젝트 목적<br>
@@ -38,7 +38,7 @@
   
     - 머리가 움직이면 반고리관에서 내림프액 흐름이 생기고 흐름의 방향에 따라 특정 반고리관 전정신경이 흥분되는데 이렇게 흥분된 전정신경은 특정한 방      향으로 안구를 움직이게 만드는 신경들을 자극합니다. 그런데 이러한 정상적인 신호의 흐름이 깨지거나 항진되는 경우 머리의 움직임이 안구의 비정상적      인 운동을 만들어 내는데 이러한 안구의 움직임을 비정상 안진이라고 합니다. 비정상 안진이 나타나면 머리 움직임에 눈이 적절히 반응하지 못해 시야      가 흔들리거나 빙빙 도는 것같이 보이는데 이러한 안구의 움직임을 측정한다.
 
-* ### :heavy_check_mark:동공 추출 기법
+* ### 동공 추출 기법
 
   <img src="https://user-images.githubusercontent.com/50096655/82442944-96fe8780-9adb-11ea-9ede-89d3b77751cf.gif" width="400" height="300"></img>
   - open cv에서 미리 훈련된 데이터를 XML파일(haarcascade_eye.xml)을 제공하는데 이를 이용하여 먼저 눈을 검출
@@ -52,7 +52,7 @@
 
 * ### reference (표로나타내기)
 
-* ### :heavy_check_mark: accuracy
+* ###  accuracy
 <table>
   <th> </th>
   <th>0</th>
