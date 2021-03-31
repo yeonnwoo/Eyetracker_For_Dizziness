@@ -59,7 +59,6 @@ num| 사이트
 3 | http://www.ijsrp.org/research-paper-0513/ijsrp-p17106.pdf
 4 | https://dgkim5360.tistory.com
 5 | https://eehoeskrap.tistory.com/91
-6 | file:///C:/Users/yeonwoo/Desktop/%EC%96%91%EC%9E%AC%ED%8C%80%ED%94%8C/BPPV%EC%A7%84%EB%8B%A8_%EC%98%A4%EC%84%A0%EC%98%81.pdf
 
 
 * ###  accuracy
