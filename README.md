@@ -1,10 +1,6 @@
 <p align="center" >
   :zap: 해당 자료들은 제6회 대한민국 sw융합 해커톤 대회에서 우수상을 수상한 프로젝트의 일부 자료입니다 :zap:
 </p>
-  
-  
-### <center> :zap: 제6회 대한민국 sw융합 해커톤 대회에서 우수상을 수상한 프로젝트입니다. </center> :zap:
-
 
 
 ### :mag_right: Eyetracker_For_Dizziness
