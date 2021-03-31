@@ -2,6 +2,9 @@
   :zap: 해당 자료들은 제6회 대한민국 sw융합 해커톤 대회에서 우수상을 수상한 프로젝트의 일부 자료입니다 :zap:
 </p>
 
+<br>
+<br>
+
 
 ### :mag_right: Eyetracker_For_Dizziness
 
@@ -47,8 +50,6 @@
   * 이미지 thresholding을 통해 threshold보다 크면 0이고 아니면 value로 바꾸어 줌
   * 동공이 검정색인 점을 이용하여 Contour을 찾아줌
   
-
-
 
 
 * ### reference
