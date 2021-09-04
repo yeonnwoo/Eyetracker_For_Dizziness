@@ -1,12 +1,13 @@
-<h2 align="center" >
-  :zap: 해당 자료들은 제6회 대한민국 sw융합 해커톤 대회에서<br> 우수상을 수상한 프로젝트의 일부 자료입니다 :zap:
-</h2>
+<h3 align="center" >
+   해당 자료들은 제6회 대한민국 sw융합 해커톤 대회에서 우수상을 수상한 프로젝트의 '일부' 자료입니다
+</h3>
+
+<hr>
 
 <br>
-<br>
 
 
-### :mag_right: Eyetracker_For_Dizziness
+### Eyetracker_For_Dizziness
 
 >**딥러닝을 이용한 이석증 분류기** 
 
